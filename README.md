@@ -1,5 +1,5 @@
 # TurmaL-3tri
-## Pensamento Computacional - 1º ano
+## Formação Ação em  Pensamento Computacional - ENSINO MÉDIO
 
 ### Formado em filosofia, atuando como professor de Pensamento Computacional nas séries Ensino fundamental e Ensino Médio. 
 
