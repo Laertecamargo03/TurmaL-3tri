@@ -2,8 +2,14 @@ body {
     background-color: #FFDFDF;
 }
 
-h1 {
+#titulo {
     color:#610C9F;
+    font-size: 50px;
     text-align: center;
+}
+
+.texto {
+    color: #1F1717;
+    font-size: 35px;
     text-align: justify;
 }
