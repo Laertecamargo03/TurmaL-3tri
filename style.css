@@ -13,3 +13,11 @@ body {
     font-size: 35px;
     text-align: justify;
 }
+
+#imagem { 
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+    margin: 0.5px double #30348c;
+    border-radius: 25px;
+}
